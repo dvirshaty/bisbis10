@@ -79,4 +79,4 @@ in addition, you have the schema and data SQL files that can setup your DB schem
  1. fork this repo to your GitHub account.
  2. clone it to your local machine.
  3. complete the tasks.
- 4. submit a pull request with your solution
+ 4. submit a pull request with your solutiond
